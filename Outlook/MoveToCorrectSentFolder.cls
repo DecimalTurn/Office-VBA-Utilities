@@ -31,7 +31,7 @@ Attribute m_nsName.VB_VarDescription = "Name of namespace to use."
 Private WithEvents m_items As Outlook.Items
 Attribute m_items.VB_VarDescription = "Items in sent folder with events."
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 
 '@Description("Validates if a string starts with a given string.")

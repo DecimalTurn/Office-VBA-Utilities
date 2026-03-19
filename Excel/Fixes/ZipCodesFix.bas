@@ -36,7 +36,7 @@ Attribute m_startingRow.VB_VarDescription = "The first row with data."
 Private Const m_checkLength As Long = 2
 Attribute m_checkLength.VB_VarDescription = "How many chars of check cell should be checked."
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 
 '@Description("Gets the cell on a worksheet at a position.")
@@ -57,7 +57,7 @@ Attribute GetTableColumnFromName.VB_Description = "Gets the column in a table fr
     GetTableColumnFromName = table.ListColumns.Item(columnName).Index
 End Function
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 '@EntryPoint
 '@Description("Iterates through entries of a specific country, checks if the zip code is formatted wrongly and corrects it.")

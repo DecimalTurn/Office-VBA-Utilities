@@ -34,7 +34,7 @@ Attribute m_infoColumn.VB_VarDescription = "The column to import to from file's 
 Private Const m_updateOnly As Boolean = True
 Attribute m_updateOnly.VB_VarDescription = "Wether to just update the item list or add new items at the end, too."
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 '@Description("Gets the cell on the active worksheet at a position.")
 Public Function GetActCell(ByVal row_ As Long, ByVal column_ As Long) As Range

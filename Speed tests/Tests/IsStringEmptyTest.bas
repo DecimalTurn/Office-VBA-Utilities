@@ -25,7 +25,7 @@ Attribute m_4thMethodLabel.VB_VarDescription = "Label text for fourth testing me
 Private Const m_methodsCount As Long = 4
 Attribute m_methodsCount.VB_VarDescription = "Number of methods to test."
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 
 '@EntryPoint

@@ -22,7 +22,7 @@ Attribute m_dueJobs.VB_VarDescription = "Dictionary of jobs due at their key's d
 Private m_doneJobs As Object
 Attribute m_doneJobs.VB_VarDescription = "Dictionary of jobs probably done at their key's date."
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 
 '@EntryPoint

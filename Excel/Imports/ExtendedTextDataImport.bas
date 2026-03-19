@@ -75,7 +75,7 @@ Private Const m_baseLineNum As Long = 10000
 Attribute m_baseLineNum.VB_VarDescription = "The base (= 1) line number in data sheet."
 
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 '@Description("Tests if a string is empty.")
 Public Function IsEmpty(ByVal str As String) As Boolean
@@ -107,7 +107,7 @@ Attribute AddToCellValue.VB_Description = "Adds an amount to a cell on a workshe
     SetCellValue ws, row_, column_, GetCellValue(ws, row_, column_) + addition
 End Sub
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 '@Description("Inserts a new row at given position in table.")
 Private Sub CreateNewRow(ByVal ws As Worksheet, ByVal Row As Long)
@@ -149,7 +149,7 @@ Attribute AddNewLocalizedTextLine.VB_Description = "Adds localized line text."
     SetCellValue lineWS, lineRow, m_lineTextColumn, GetCellValue(importWS, importRow, importColumn)
 End Sub
 
-' ————————————————————————————————————————————————————— '
+' ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ '
 
 '@EntryPoint
 '@Description("Imports data for items from another Excel workbook.")
